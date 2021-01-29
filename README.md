@@ -1,4 +1,6 @@
-# turbina
+## Turbina
+# **Abandonado**
+
 Proyecto de estación meteorológica auto-suficiente para monitorización no esencial. 
 
 Este proyecto ha sido creado como Hobby en un principio. Se puede expandir y especializar tanto como haga falta empleando los métodos
